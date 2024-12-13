@@ -2,14 +2,11 @@
 <img src="https://i.imgur.com/gYF95Kr.png" alt="Routing Logo"/>
 </p>
 
-<h1>Inter-VLAN routing for 3 VLANs + default route to internet</h1>
-LAB: ROUTER LAN CONFIGURATION. Configure, Test & Verify Inter-VLAN routing 
-on the FSNA-RTR<br />
+<h1>Inter-VLAN Routing For 3 VLANs + Default Route To Internet</h1>
+LAB: ROUTER LAN CONFIGURATION. Configure, Test & Verify Inter-VLAN Routing<br />
 
 
-<h2>Video Demonstration</h2>
 
-- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
