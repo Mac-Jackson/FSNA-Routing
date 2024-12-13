@@ -2,8 +2,9 @@
 <img src="https://i.imgur.com/gYF95Kr.png" alt="Routing Logo"/>
 </p>
 
-<h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+<h1>Inter-VLAN routing for 3 VLANs + default route to internet</h1>
+LAB: ROUTER LAN CONFIGURATION. Configure, Test & Verify Inter-VLAN routing 
+on the FSNA-RTR<br />
 
 
 <h2>Video Demonstration</h2>
