@@ -3,7 +3,7 @@
 </p>
 
 <h1>Inter-VLAN Routing For 3 VLANs + Default Route To Internet</h1>
-LAB: ROUTER LAN CONFIGURATION. Configure, Test & Verify Inter-VLAN Routing<br />
+This Lab tutorial outlines how to configure, test, and verify Inter VLAN routing.<br />
 
 
 
