@@ -8,17 +8,20 @@ LAB: ROUTER LAN CONFIGURATION. Configure, Test & Verify Inter-VLAN Routing<br />
 
 
 
-<h2>Environments and Technologies Used</h2>
+<h2>Networking Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Active Directory Domain Services
-- PowerShell
+- Inter-VLAN Routing
+- Subnetting
 
-<h2>Operating Systems Used </h2>
 
-- Windows Server 2022
-- Windows 10 (21H2)
+<h2>Environments Used </h2>
+
+- Command-Line Interface (CLI)
+
+
+<h2>Tools Used </h2>
+
+- Cisco Packet Tracer
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
