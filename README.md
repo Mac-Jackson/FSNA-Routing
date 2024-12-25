@@ -74,7 +74,7 @@ Configure G0/0Sub-interfaces for Inter-VLAN routing. (config-if)#interface g0/0.
 <br />
 
 <p>
-<img src="https://i.imgur.com/vmGqwxo.png" height="80%" width="80%" alt="FSNA-RTR"/>
+<img src="https://github.com/user-attachments/assets/dfc2c273-cc82-4dd3-bde8-da99bd3a5293" height="80%" width="80%" alt="FSNA-RTR"/>
 </p>
 <p>
 Verify the Trunk is active. FSNA-RTR#show running-config
@@ -82,7 +82,7 @@ Verify the Trunk is active. FSNA-RTR#show running-config
 <br />
 
 <p>
-<img src="https://i.imgur.com/91pR34D.png" height="80%" width="80%" alt="FSNA-RTR"/>
+<img src="https://github.com/user-attachments/assets/5cbda737-3fa8-495b-bc34-1612a00b5af7" height="80%" width="80%" alt="FSNA-RTR"/>
 </p>
 <p>
 FSNA-RTR#show ip route
@@ -90,7 +90,7 @@ FSNA-RTR#show ip route
 <br />
 
 <p>
-<img src="https://i.imgur.com/dxscWap.png" height="80%" width="80%" alt="FSNA-RTR"/>
+<img src="https://github.com/user-attachments/assets/fdbb1578-7bca-44cd-ab53-954f372442be" height="80%" width="80%" alt="FSNA-RTR"/>
 </p>
 <p>
 Save the configuration
@@ -98,7 +98,7 @@ Save the configuration
 <br />
 
 <p>
-<img src="https://i.imgur.com/ViVYP1x.png" height="80%" width="80%" alt="FSNA-SW1"/>
+<img src="https://github.com/user-attachments/assets/60ca88b6-2f83-437c-91e4-ece5c90d326b" height="80%" width="80%" alt="FSNA-SW1"/>
 </p>
 <p>
 Confirm Active Trunk on FSNA-SW1
@@ -106,7 +106,7 @@ Confirm Active Trunk on FSNA-SW1
 <br />
 
 <p>
-<img src="https://i.imgur.com/twzgPHn.png" height="80%" width="80%" alt="FSNA-SW1"/>
+<img src="https://github.com/user-attachments/assets/55b06663-6290-4855-b755-111a19baf683" height="80%" width="80%" alt="FSNA-SW1"/>
 </p>
 <p>
 Add a default gateway to the switch and save configuration.
@@ -114,7 +114,7 @@ Add a default gateway to the switch and save configuration.
 <br />
 
 <p>
-<img src="https://i.imgur.com/8ZDLtQh.png" height="80%" width="80%" alt="FSNA-SW1"/>
+<img src="https://github.com/user-attachments/assets/40cef4cc-5769-452a-9389-d0e57077a0a3" height="80%" width="80%" alt="FSNA-SW1"/>
 </p>
 <p>
 FSNA-SW1#ping 192.168.100.1
