@@ -34,10 +34,10 @@ This Lab tutorial outlines configuring, testing, and verifying Inter VLAN routin
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/y91MAJk.png" height="80%" width="80%" alt="FSNA-RTR"/>
+<img src="https://github.com/user-attachments/assets/213acf44-c061-4c06-af35-43c1e063ce50" height="80%" width="80%" alt="FSNA-RTR"/>
 </p>
 <p>
-Connectivity between Switch and Router is Off.
+The connectivity between the Switch and the Router is Off.
 </p>
 <br />
 
