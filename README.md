@@ -1,9 +1,10 @@
 <p align="center">
-<img src="https://i.imgur.com/gYF95Kr.png" alt="Routing Logo"/>
+<img src="https://github.com/user-attachments/assets/d09a4564-96eb-4566-9fe3-8ebc48f317e6" alt="Routing Logo"/>
 </p>
 
 <h1>Inter-VLAN Routing For 3 VLANs + Default Route To Internet</h1>
-This Lab tutorial outlines how to configure, test, and verify Inter VLAN routing.<br />
+This Lab tutorial outlines configuring, testing, and verifying Inter VLAN routing.<br />
+
 
 
 
