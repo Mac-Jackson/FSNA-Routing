@@ -42,7 +42,7 @@ The connectivity between the Switch and the Router is Off.
 <br />
 
 <p>
-<img src="https://i.imgur.com/jUiZnuy.png" height="80%" width="80%" alt="FSNA-RTR"/>
+<img src="https://github.com/user-attachments/assets/c5b5503c-b80b-4f98-ae11-217c8986d150" height="80%" width="80%" alt="FSNA-RTR"/>
 </p>
 <p>
 Turn on RTR (config)#interface g0/0
@@ -52,7 +52,7 @@ Turn on RTR (config)#interface g0/0
 <br />
 
 <p>
-<img src="https://i.imgur.com/XwEWFF4.png" height="80%" width="80%" alt="FSNA-RTR"/>
+<img src="https://github.com/user-attachments/assets/d46b1d02-76da-4483-a89d-0f2436fbd517" height="80%" width="80%" alt="FSNA-RTR"/>
 </p>
 <p>
 Configure G0/0Sub-interfaces for Inter-VLAN routing. (config-if)#interface g0/0.100
